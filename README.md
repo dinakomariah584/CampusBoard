@@ -164,11 +164,4 @@ Fitur "Lupa Password" memerlukan konfigurasi domain hosting di Firebase Console 
 
 Saat ini aplikasi berjalan optimal di browser Chrome dan Edge.
 
-<div align="center">
-<p>Dibuat untuk memenuhi tugas <b>Final Project</b> mata kuliah <b>Rekayasa Perangkat Lunak</b>
-
-
-
-
-Program Studi Sistem Informasi, UIN Sultan Thaha Saifuddin Jambi, 2025.</p>
-</div>
+Dibuat untuk memenuhi tugas Final Project mata kuliah Rekayasa Perangkat Lunak, Program Studi Sistem Informasi, UIN Sultan Thaha Saifuddin Jambi, 2025.
