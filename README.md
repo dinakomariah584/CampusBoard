@@ -8,12 +8,15 @@ Anggota:
 3. Dina Komariah (701230065)
 Dosen Pengampu: Dila Nurlaila, M.Kom.
 
+
 Deskripsi Aplikasi
 CampusBoard adalah aplikasi berbasis web yang berfungsi sebagai papan informasi digital untuk lingkungan kampus UIN Sultan Thaha Saifuddin Jambi. Aplikasi ini memusatkan penyebaran pengumuman akademik, acara kemahasiswaan, dan kalender kegiatan dalam satu platform yang mudah diakses.
+
 
 Tujuan & Masalah yang Diselesaikan
 - Masalah: Informasi kampus sering tercecer di grup WhatsApp, tertimbun chat, atau hanya ditempel di papan fisik yang jarang dibaca.
 - Solusi: CampusBoard menyediakan centralized hub di mana Admin dapat menyebarkan info resmi yang dapat diakses kapan saja secara real-time, dan Mahasiswa dapat berdiskusi serta menyimpan jadwal penting ke kalender pribadi.
+
 
 Teknologi yang Digunakan
 - Frontend: React.js (Vite Framework)
@@ -22,6 +25,7 @@ Teknologi yang Digunakan
 - Database: Google Cloud Firestore (NoSQL)
 - Authentication: Firebase Auth
 - Deployment: Firebase Hosting
+
 
 Cara Menjalankan Aplikasi CampusBoard
 Aplikasi ini dibangun menggunakan React (Vite), jadi kita akan menggunakan Node.js dan npm (Node Package Manager).
@@ -54,6 +58,7 @@ Aplikasi ini dibangun menggunakan React (Vite), jadi kita akan menggunakan Node.
     - Akses Aplikasi: Terminal akan menampilkan alamat lokal, biasanya:
         http://localhost:5173/
 
+
 Akun Demo (Untuk Pengujian)
 Jika Anda ingin mencoba fitur tanpa mendaftar:
 1. Akun Admin:
@@ -63,15 +68,18 @@ Jika Anda ingin mencoba fitur tanpa mendaftar:
     - Email: Mahasiswa58@gmail.com
     - Password: Mhs123
 
+
 Link Deployment & Demo
 Aplikasi Web: https://campusboard1-c6e50.web.app/
 Video Demo: https://youtu.be/TrxqJQ2iDiA?si=YqfjFtpKQ3SyTbsT
 
-Screenshot
+
 <img src="public/Home.png" alt="Tampilan Halaman Utama" width="700">
+
 
 Catatan Tambahan
 - Fitur "Lupa Password" memerlukan konfigurasi domain hosting di Firebase Console agar link email berfungsi dengan benar.
 - Saat ini aplikasi berjalan optimal di browser Chrome dan Edge.
 
+  
 Dibuat untuk memenuhi tugas Final Project mata kuliah Rekayasa Perangkat Lunak, Program Studi Sistem Informasi, UIN Sultan Thaha Saifuddin Jambi, 2025.
