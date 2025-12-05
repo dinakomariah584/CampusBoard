@@ -9,17 +9,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=MRH&background=5B67E8&color=fff&size=100" width="100px;" alt=""/><br />
+      <img src="https://ui-avatars.com/api/?name=IM&background=5B67E8&color=fff&size=100" width="100px;" alt=""/><br />
       <sub><b>Indo Masse</b></sub><br />
       <sub>701230001</sub><br />
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=AF&background=5B67E8&color=fff&size=100" width="100px;" alt=""/><br />
+      <img src="https://ui-avatars.com/api/?name=RR&background=5B67E8&color=fff&size=100" width="100px;" alt=""/><br />
       <sub><b>Ririn Rahmawati</b></sub><br />
       <sub>701230036</sub><br />
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=AK&background=5B67E8&color=fff&size=100" width="100px;" alt=""/><br />
+      <img src="https://ui-avatars.com/api/?name=DK&background=5B67E8&color=fff&size=100" width="100px;" alt=""/><br />
       <sub><b>Dina Komariah</b></sub><br />
       <sub>701230065</sub><br />
     </td>
