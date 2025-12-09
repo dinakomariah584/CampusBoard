@@ -157,9 +157,6 @@ https://youtu.be/TrxqJQ2iDiA?si%253DYqfjFtpKQ3SyTbsT
 
 <div align="center">
 
-**⭐ Dibuat untuk memenuhi tugas Final Project mata kuliah Rekayasa Perangkat Lunak 
-Program Studi Sistem Informasi
-UIN Sultan Thaha Saifuddin Jambi
-2025. ⭐**
+**⭐ Dibuat untuk memenuhi tugas Final Project mata kuliah Rekayasa Perangkat Lunak Program Studi Sistem Informasi, UIN Sultan Thaha Saifuddin Jambi, 2025. ⭐**
 
 </div>
