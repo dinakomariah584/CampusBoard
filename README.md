@@ -51,7 +51,8 @@ CampusBoard menyediakan centralized hub di mana Admin dapat menyebarkan info res
 ### Frontend
 - **Vite Framework:** React.js
 - **Styling:** Tailwind CSS
-- **Language:** JavaScript, HTML
+- **Programming language:** JavaScript
+- **Markup Language:** HTML
 
 ### Backend
 - **Authentication:** Firebase Auth
